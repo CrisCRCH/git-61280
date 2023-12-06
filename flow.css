@@ -1,0 +1,43 @@
+
+@font-face
+{
+    font-family: "nea";
+    src:url('../fuente/Kanit/Kanit-Black.ttf')
+}
+
+@font-face
+{
+    font-family: "neaa";
+    src:url('../fuente/Kanit/Kanit-Italic.ttf')
+}
+
+html
+{
+    background-color:darkgray; 
+    font-family: 'nea';
+}
+
+h1
+{
+    color: black;
+    font-family: 'nea';
+    font-size: 60px;
+}
+
+h2
+{
+    color: aquamarine;
+    font-family:'nea';
+    font-size: 30px;
+}
+
+p
+{
+    background-color: white;
+    color: black;
+    font-family: 'neaa';
+    font-size: 20px;
+
+}
+
+
